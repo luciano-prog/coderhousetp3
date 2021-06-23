@@ -1,0 +1,9 @@
+body {
+  font: 24px Helvetica;
+  background: black;
+  color: #999999;
+}
+#one {
+  text-align: center;
+  text-transform: uppercase;
+}
